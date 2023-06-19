@@ -13,7 +13,7 @@ Key Features:
 
   ->Model training and evaluation to achieve accurate classification
 
-  ->Simple user interface for testing and using the classifier
+
 
 This project serves as a practical example of how machine learning algorithms can be applied to real-world problems, specifically in the context of email spam detection. It can be used as a starting point for further research, experimentation, or integration into larger email filtering systems.
 
